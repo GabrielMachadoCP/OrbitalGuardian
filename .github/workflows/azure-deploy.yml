@@ -24,6 +24,9 @@ jobs:
       - name: Gerar build
         run: npm run build
 
+      - name: Remover node_modules antes do deploy
+        run: rm -rf node_modules
+
       - name: Deploy no Azure App Service
         uses: azure/webapps-deploy@v3
         with:
