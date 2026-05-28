@@ -33,7 +33,7 @@ A aplicação foi hospedada no Azure App Service com deploy automatizado via Git
 - Logs e métricas acompanhados
 
 ## Link da aplicação
-https://orbital-guardian-ai.azurewebsites.net
+[https://orbital-guardian-ai.azurewebsites.net](https://orbital-guardian-ai-f4cufhcvbtffb8az.centralus-01.azurewebsites.net/)
 
 ## Integrantes
 | Nome | RM |
