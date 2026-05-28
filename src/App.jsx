@@ -92,11 +92,11 @@ const odsData = [
 ]
 
 const teamMembers = [
-  { name: 'Integrante 1', rm: 'RM000000' },
-  { name: 'Integrante 2', rm: 'RM000001' },
-  { name: 'Integrante 3', rm: 'RM000002' },
-  { name: 'Integrante 4', rm: 'RM000003' },
-  { name: 'Integrante 5', rm: 'RM000004' },
+  { name: 'Debora Amaral', rm: 'RM 550412' },
+  { name: 'Eduardo Pielich', rm: 'RM 99767 ' },
+  { name: 'Gabriel Machado', rm: 'RM 99880' },
+  { name: 'Livia Namba', rm: 'RM 97819' },
+  { name: 'Vitor Hugo Rodrigues', rm: 'RM 97758' },
 ]
 
 /* ── App ── */
