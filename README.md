@@ -38,8 +38,8 @@ https://orbital-guardian-ai.azurewebsites.net
 ## Integrantes
 | Nome | RM |
 |------|-----|
-| Integrante 1 | RM000000 |
-| Integrante 2 | RM000001 |
-| Integrante 3 | RM000002 |
-| Integrante 4 | RM000003 |
-| Integrante 5 | RM000004 |
+Debora da Silva Amaral - RM 550412 
+Eduardo Pielich - RM 99767 
+Gabriel Machado - RM 99880
+Livia Namba Seraphim - RM 97819 
+Vitor Hugo Rodrigues - RM 97758
