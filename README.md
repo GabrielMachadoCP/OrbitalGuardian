@@ -35,11 +35,10 @@ A aplicação foi hospedada no Azure App Service com deploy automatizado via Git
 ## Link da aplicação
 [https://orbital-guardian-ai.azurewebsites.net](https://orbital-guardian-ai-f4cufhcvbtffb8az.centralus-01.azurewebsites.net/)
 
-## Integrantes
-| Nome | RM |
-|------|-----|
-Debora da Silva Amaral - RM 550412 
-Eduardo Pielich - RM 99767 
-Gabriel Machado - RM 99880
-Livia Namba Seraphim - RM 97819 
-Vitor Hugo Rodrigues - RM 97758
+## Integrantes da Equipe
+
+- Debora da Silva Amaral - RM 550412 
+- Eduardo Pielich - RM 99767 
+- Gabriel Machado - RM 99880
+- Livia Namba Seraphim - RM 97819 
+- Vitor Hugo Rodrigues - RM 97758
